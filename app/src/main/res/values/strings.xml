@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToggleButton</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="About">About Us</string>
+    <string name="extra">*********</string>
+    <string name="extra1">*********</string>
+    <string name="text">edwin@codes.com</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+</resources>
